@@ -1,0 +1,22 @@
+{
+  "name": "elb-access-logs-statsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "moment": "^2.18.1",
+    "node-statsd": "^0.1.1",
+    "s3": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.74",
+    "@types/node": "^8.0.26",
+    "typescript": "^2.5.2"
+  }
+}

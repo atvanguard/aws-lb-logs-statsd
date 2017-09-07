@@ -1,0 +1,9 @@
+.git/
+.editorconfig
+.gitignore
+*.(yml|yaml|md)
+tsconfig.json
+
+src/
+# dist/
+# node_modules/
